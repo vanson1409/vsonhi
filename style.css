@@ -1,0 +1,15 @@
+ol{
+    margin: 0px;
+        list-style-type: none;
+}
+
+input[type="radio"]:checked + label {
+    color: red;}
+
+    #radio-ix-0:checked + label {
+        color: rgba(137, 216, 19, 0.837);
+      }
+      
+#zson{
+    color: green;
+}
